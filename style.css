@@ -66,3 +66,52 @@ form{
     margin: 0 auto 50px;
     border-radius: 10px;
 }
+
+#contact-txt{
+    padding: 15px 0px;
+    text-align: center;
+}
+#contact-txt h1 {
+    font-size: 30px;
+    font-family: cursive;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-shadow: 3px;
+}
+#contact-info {
+    display: flex;
+    flex-direction: column;
+}
+#contact-info input {
+    margin: 15px 0 15px 3%;
+    width: 250px;
+    height: 25px;
+    outline: none;
+    border-top-style: none;
+    border-bottom: 1px solid black;
+    border-left-style: none;
+    border-right-style: none;
+}
+textarea {
+    width: 80%;
+    height: 200px;
+    resize: none;
+    margin: 0 auto;
+    outline: none;
+}
+
+#contact-submit{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#contact-submit button {
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: darkorange;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
