@@ -5,3 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const catCategoryRow = document.getElementById('cat-categories')
     const hide = document.querySelector(".Home-Page")
     const contact = document.querySelector(".contact-page")
+    
+    // LINKS DATA
+    const categoriesLink = document.getElementById('category-link')
+    const homeLink = document.getElementById('home-link')
+    const contactSection = document.getElementById('contact')
