@@ -1,6 +1,6 @@
 # Phase 1 Project
 
-Author: Kidhri Salim
+Author: Mohamed shukri
 
 ## Description
 
@@ -10,8 +10,8 @@ This project is a web application for cat facts and cute cat pictures.
 ## Live Page
 
 
-Visit the live page at: [Phase 1 Project Live Page](https://al-hajjar.github.io/phase1project/)
-
+Visit the live page at: [github](https://shukri26.github.io/cat--facts-app/)
+or : [Netlify](https://64a856c3d5406312ad9393e6--verdant-nougat-c3a8e2.netlify.app/)
 
 ## Installation
 
@@ -52,7 +52,7 @@ If you want to deploy this project on your own or view the project source code, 
 
 #### GitHub Deployment
 
-1. Open the GitHub repository for the project by visiting [Phase 1 Project GitHub Repository](https://github.com/al-hajjar/phase1project).
+1. Open the GitHub repository for the project by visiting [Phase 1 Project GitHub Repository](https://github.com/shukri26/cat--facts-app).
 
 2. On the repository page, you can view the project's source code, documentation, and commit history.
 
@@ -60,7 +60,7 @@ If you want to deploy this project on your own or view the project source code, 
 
 #### Netlify Deployment
 
-1. Open the Netlify deployment for the project by visiting [Phase 1 Project on Netlify](https://your-netlify-url.com).
+1. Open the Netlify deployment for the project by visiting [Phase 1 Project on Netlify](https://64a856c3d5406312ad9393e6--verdant-nougat-c3a8e2.netlify.app/).
 
 2. On the Netlify deployment, you can interact with the live version of the project.
 
