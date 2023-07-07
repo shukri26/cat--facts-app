@@ -1,4 +1,4 @@
-const CATEGORIES = 'https://al-hajjar.github.io/phase1project/db.json'
+const CATEGORIES = 'https://shukri26.github.io/cat--facts-app//db.json'
 document.addEventListener('DOMContentLoaded', () => {
 
     // ROWS DATA
