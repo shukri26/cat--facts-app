@@ -36,7 +36,6 @@ nav {
     height: 100vh;
     display: flex;
 }
-
 .Left-home {
     width: 50%;
     display: flex;
@@ -56,17 +55,17 @@ nav {
 .Right-home img {
     transform: scale(1.5);
 }
-
 .contact-page{
     display: none;
 }
+
 form{
     max-width: 550px;
     border: 1px solid;
     margin: 0 auto 50px;
     border-radius: 10px;
+    
 }
-
 #contact-txt{
     padding: 15px 0px;
     text-align: center;
@@ -143,7 +142,6 @@ img {
     font-weight: bolder;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 
 .card-container{
     width: 60%;
