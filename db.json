@@ -1,0 +1,74 @@
+{
+    "cats": [
+     {
+         "id": 1,
+         "breed": "Siamese",
+         "habitat": "A siamese cat's home is people's homes in cat beds.",
+         "image" : "images/Siamese.jpg",
+         "lifespan": "between 10 and 12.5 years"
+     },
+     {
+         "id":2,
+         "breed":"Persians",
+         "habitat": "Persians are homebodies",
+         "image": "images/persian-kitten.jpg",
+         "lifespan":"between 12 and 18years"
+     },
+     {
+         "id":3,
+         "breed":"sphynx",
+         "habitat":"also known as the Canadian Sphynx, is a breed of cat known for its lack of fur",
+         "image":"images/Sphynx_Cat-AP-BAKLFT-590lc061113.jpg",
+         "lifespan":"between 8 and 14years"
+     },
+     {
+         "id":4,
+         "breed":"bengal",
+         "habitat":"tropical forests, coniferous forests,",
+         "image":"images/bengal-2042592_1920.webp",
+         "lifespan":"between 12 and 16years"
+     },
+     {
+         "id":5,
+         "breed":"british ShortHair",
+         "habitat":"The British Shorthair is a very pleasant cat to have as a companion.",
+         "image":"./images/britishShorthair.jpg",
+         "lifespan":"between 14 and 20years"
+     },
+     {
+         "id":6,
+         "breed":"Ragdoll",
+         "habitat":"Ragdolls are strictly house cats",
+         "image":"./images/ragdoll.jpg",
+         "lifespan":"between 12 and 15years"
+     },
+     {
+         "id":7,
+         "breed":"Birman",
+         "habitat":" The Birman is a long-haired, colour-pointed cat distinguished by a silky coat,",
+         "image":"./images/birman.jpg",
+         "lifespan":"between 9 and 13years"
+     }, 
+     {
+         "id":8,
+         "breed":"Maine Coon",
+         "habitat":"The Maine Coon is predominantly known for its size and dense coat of fur which helps the large feline to survive in the harsh climate of Maine, the state from which they originated.",
+         "image":"./images/mainecoon.jpg",
+         "lifespan":"between 12 and 15years"
+     }, 
+     {
+         "id":9,
+         "breed":"Abyssinian",
+         "habitat":"Abyssinian cats are very active and will generally thrive as indoor cats in larger homes as long as they have company and toys.",
+         "image":"./images/abyssinian.jpg",
+         "lifespan":"between 9 and 13years"
+     }, 
+     {
+         "id":10,
+         "breed":"Scottish Fold",
+         "habitat":"Scottish fold cats are typically sweet, calm, easygoing, intelligent, loyal, and adaptable.",
+         "image":"./images/scottishfold.jpg",
+         "lifespan":"between 13 and 15years"
+     }
+ ]
+ }
