@@ -22,9 +22,21 @@ Follow the steps below to install and run the project:
 
 2. Clone the repository to your local machine:
 
-3. Navigate to the project directory:
+   ```bash
+   
+   git clone git@github.com:shukri26/cat--facts-app.git
+   
+   ```
 
-4. Open the project in your preferred text editor:
+4. Navigate to the project directory:
+
+   ```bash
+
+   cd cat--facts-app
+
+   ```
+
+6. Open the project in your preferred text editor:
 
   - For Visual Studio Code: `code .`
 
