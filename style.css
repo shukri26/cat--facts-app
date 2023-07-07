@@ -36,3 +36,23 @@ nav {
     height: 100vh;
     display: flex;
 }
+
+.Left-home {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Left-home h2 {
+    font-size: 38px;
+
+}
+.Right-home {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Right-home img {
+    transform: scale(1.5);
+}
