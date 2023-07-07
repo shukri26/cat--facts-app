@@ -1,4 +1,4 @@
-const CATEGORIES = 'https://shukri26.github.io/cat--facts-app//db.json'
+const CATEGORIES = 'https://api.npoint.io/561fa27d863606690023'
 document.addEventListener('DOMContentLoaded', () => {
 
     // ROWS DATA
